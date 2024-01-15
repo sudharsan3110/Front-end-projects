@@ -1,0 +1,40 @@
+header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 0px;
+
+}
+
+header .leftside a img{
+    width: 80px;
+}
+header .leftside {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin : 20px;
+    box-sizing: border-box;
+    
+}
+header .leftside .nav-link-wrapper{
+    padding:20px
+}
+header .rightside {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin : 20px;
+    box-sizing: border-box;
+    
+}
+header .rightside .nav-link-wrapper{
+    padding:20px
+}
+strline{
+    background-color:green;
+    text-align: center;
+   
+}
